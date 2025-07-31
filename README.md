@@ -75,5 +75,6 @@ performs the right analysis on the dataset.
 
 ### 🙋‍♂️Author : Amit kumar
 
-
+<img src="https://github.com/AmitAnant01/E-Commerce-PowerBi-Dashboard/blob/main/scs1.png" width="100%" />
 <img src="https://github.com/AmitAnant01/E-Commerce-PowerBi-Dashboard/blob/main/scs.png" width="100%" />
+
