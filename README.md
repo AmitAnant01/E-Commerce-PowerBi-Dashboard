@@ -74,3 +74,6 @@ Creating the power Bi Dashboard its not creats the visual but it also give the e
 performs the right analysis on the dataset.
 
 ### 🙋‍♂️Author : Amit kumar
+
+
+<img src="https://github.com/AmitAnant01/E-Commerce-PowerBi-Dashboard/blob/main/scs.png" width="100%" />
