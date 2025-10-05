@@ -1,4 +1,4 @@
-![My image](images/scs.png)
+![My image](scs.png)
 
 # 🛒📊E-Commerce Sales Analysis Dashboard  (Power BI)
 
