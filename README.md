@@ -1,3 +1,5 @@
+![My image](images/scs.png)
+
 # 🛒📊E-Commerce Sales Analysis Dashboard  (Power BI)
 
 This project showcases a professional and interactive Power BI Dashboard built using e-commerce sales data. It visualizes key metrics like total sales, profit, customer count, and monthly trends. The dashboard offers insights by category, sub-category, region, and payment mode.
